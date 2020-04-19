@@ -10,7 +10,7 @@ import pandas as pd
 from datetime import datetime as dt
 
 # Initiate app
-application = dash.Dash(__name__)
+app = dash.Dash(__name__)
 
 # Set server variable (necessary if you plan to deploy the app)
 application = app.server
