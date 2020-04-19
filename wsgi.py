@@ -1,4 +1,4 @@
-server = app.server
+#server = app.server
 # -*- coding: utf-8 -*-
 
 import dash
